@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: cripto
+Build-Jdk: 17.0.2
+Implementation-Title: netplus
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.netplus.app
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/netplus
+Created-By: Maven Integration for Eclipse
+
